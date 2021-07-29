@@ -12,6 +12,23 @@ Choose one of this options:
 10. Load to Queue and display
 0. Exit
 -------------------------------------------------
+Please choose from (0 -> 10), Your choice: 7
+Sort product list by ID:
+This list is empty!
+-------------------------------------------------
+Choose one of this options: 
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to binary
+9. Load to Stack and display
+10. Load to Queue and display
+0. Exit
+-------------------------------------------------
 Please choose from (0 -> 10), Your choice: 1
 List from file:
 ID   |    Product Name   |    Price  |    Stock
@@ -24,6 +41,63 @@ D06  |    demo6          |    20.1   |    25
 D03  |    demo3          |    17.5   |    22
 D01  |    demo1          |    30.5   |    20
 D04  |    demo4          |    10.2   |    23
+sp01 |    demo10         |    21.0   |    20
+-------------------------------------------------
+-------------------------------------------------
+Choose one of this options: 
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to binary
+9. Load to Stack and display
+10. Load to Queue and display
+0. Exit
+-------------------------------------------------
+Please choose from (0 -> 10), Your choice: 7
+Sort product list by ID:
+ID   |    Product Name   |    Price  |    Stock
+-------------------------------------------------
+D01  |    demo1          |    30.5   |    20
+D02  |    demo2          |    23.5   |    21
+D03  |    demo3          |    17.5   |    22
+D04  |    demo4          |    10.2   |    23
+D05  |    demo5          |    19.9   |    24
+D06  |    demo6          |    20.1   |    25
+D07  |    demo7          |    21.4   |    26
+D08  |    demo8          |    15.6   |    27
+sp01 |    demo10         |    21.0   |    20
+-------------------------------------------------
+-------------------------------------------------
+Choose one of this options: 
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to binary
+9. Load to Stack and display
+10. Load to Queue and display
+0. Exit
+-------------------------------------------------
+Please choose from (0 -> 10), Your choice: 7
+Sort product list by ID:
+ID   |    Product Name   |    Price  |    Stock
+-------------------------------------------------
+D01  |    demo1          |    30.5   |    20
+D02  |    demo2          |    23.5   |    21
+D03  |    demo3          |    17.5   |    22
+D04  |    demo4          |    10.2   |    23
+D05  |    demo5          |    19.9   |    24
+D06  |    demo6          |    20.1   |    25
+D07  |    demo7          |    21.4   |    26
+D08  |    demo8          |    15.6   |    27
+sp01 |    demo10         |    21.0   |    20
 -------------------------------------------------
 -------------------------------------------------
 Choose one of this options: 
@@ -43,15 +117,32 @@ Please choose from (0 -> 10), Your choice: 3
 Product list:
 ID   |    Product Name   |    Price  |    Stock
 -------------------------------------------------
+D01  |    demo1          |    30.5   |    20
 D02  |    demo2          |    23.5   |    21
+D03  |    demo3          |    17.5   |    22
+D04  |    demo4          |    10.2   |    23
 D05  |    demo5          |    19.9   |    24
+D06  |    demo6          |    20.1   |    25
 D07  |    demo7          |    21.4   |    26
 D08  |    demo8          |    15.6   |    27
-D06  |    demo6          |    20.1   |    25
-D03  |    demo3          |    17.5   |    22
-D01  |    demo1          |    30.5   |    20
-D04  |    demo4          |    10.2   |    23
+sp01 |    demo10         |    21.0   |    20
 -------------------------------------------------
+-------------------------------------------------
+Choose one of this options: 
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to binary
+9. Load to Stack and display
+10. Load to Queue and display
+0. Exit
+-------------------------------------------------
+Please choose from (0 -> 10), Your choice: 8
+Stock in binary: 10100
 -------------------------------------------------
 Choose one of this options: 
 1. Load data from file and display
@@ -70,6 +161,7 @@ Please choose from (0 -> 10), Your choice: 9
 List product from Stack:
 ID   |    Product Name   |    Price  |    Stock
 -------------------------------------------------
+sp01 |    demo10         |    21.0   |    20
 D04  |    demo4          |    10.2   |    23
 D01  |    demo1          |    30.5   |    20
 D03  |    demo3          |    17.5   |    22
@@ -105,6 +197,7 @@ D06  |    demo6          |    20.1   |    25
 D03  |    demo3          |    17.5   |    22
 D01  |    demo1          |    30.5   |    20
 D04  |    demo4          |    10.2   |    23
+sp01 |    demo10         |    21.0   |    20
 -------------------------------------------------
 -------------------------------------------------
 Choose one of this options: 
